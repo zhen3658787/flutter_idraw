@@ -88,3 +88,11 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  assets:
+    - images/
+
+  # 打包aar
+  # module:
+  #   androidX: true
+  #   androidPackage: com.zl.flutter_idraw
+  #   iosBundleIdentifier: com.zl.flutterIdraw
